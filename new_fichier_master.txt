@@ -1,1 +1,3 @@
 fichier master
+ suite 
+modif dur BR1
