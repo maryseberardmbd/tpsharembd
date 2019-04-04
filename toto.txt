@@ -1,4 +1,8 @@
 fichier toto de maryse
 toto de greg
 
+<<<<<<< HEAD
 hello
+=======
+ hello 
+>>>>>>> ajout fichier kitty
